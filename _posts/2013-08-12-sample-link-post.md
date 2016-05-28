@@ -3,7 +3,7 @@ layout: post
 title: "My Profil"
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
-link: http://mademistakes.com  
+link: https://www.facebook.com/Thovanni1st  
 share: true
 ---
 
