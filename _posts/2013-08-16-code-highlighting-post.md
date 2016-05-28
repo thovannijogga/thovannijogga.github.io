@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: FAKUSTAS SAINS DAN TEKNOLOGI
+excerpt: "Fakultas Sains dan Teknologi didirikan pada akhir tahun 2001 sebagai persiapan perubahan status dari Institut Agama Islam Negeri Sultan Syarif Qasim (IAIN SUSQA) Pekanbaru menjadi Universitas Islam Negeri Sultan Syarif Kasim Riau (UIN Suska) Riau. Cikal bakal berdirinya Fakultas Sains dan Teknologi bermula dibukanya Jurusan Teknik Informatika pada tahun 1999 dan jurusan Teknik Industri pada tahun 2001."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
