@@ -28,12 +28,12 @@ kramdown:
 # Site owner
 owner:
   name: thovanni jogga
-  avatar: bio-photo.jpg
+  avatar: thovan.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
   twitter: jazma101 #username
-  facebook: deactivate.py #username
+  facebook: https://www.facebook.com/Thovanni1st
   google:
     plus: kampar #username
     analytics: 
