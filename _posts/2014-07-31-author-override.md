@@ -3,7 +3,7 @@ layout: post
 title: "Visi Misi"
 author: billy_rick
 modified:
-excerpt: "maju terus pantang mundur untuk negeri indonesia jgn pernah puas dengan pendidikan dan tuntut lh ilmu sebanyak"nya dan jangan pernah berhenti untuk berkreasi ."
+excerpt: "maju terus pantang mundur untuk negeri indonesia jgn pernah puas dengan pendidikan dan tuntut lh ilmu sebanyak banyaknya dan jangan pernah berhenti untuk berkreasi."
 tags: []
 ---
 
