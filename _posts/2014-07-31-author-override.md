@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Visi Misi"
+title: "Universitas Islam Negeri Sultan Syarif Kasim Riau (UIN SUSKA)"
 author: billy_rick
 modified:
-excerpt: "maju terus pantang mundur untuk negeri indonesia jgn pernah puas dengan pendidikan dan tuntut lh ilmu sebanyak- banyaknya dan jangan pernah berhenti untuk berkreasi."
+excerpt: "Universitas Islam Negeri Sultan Syarif Kasim (UIN Suska) Riau dalam bahasa Arab adalah  جامعة السلطان شريف قاسم الإسلامية اﻟﺤﻜﻮمية رياو dan dalam bahasa Inggris adalah State Islamic University of Sultan Syarif Kasim Riau merupakan hasil pengembangan/ peningkatan status pendidikan dari Institut Agama Islam Negeri (IAIN) Sulthan Syarif Qasim Pekanbaru yang secara resmi dikukuhkan berdasarkan Peraturan Presiden RI Nomor 2 Tahun 2005 tanggal 4 Januari 2005 tentang Perubahan IAIN Sulthan Syarif Qasim Pekanbaru menjadi UIN Sultan Syarif Kasim Riau dan diresmikan pada 9 Februari 2005 oleh Presiden RI, Bapak Dr. H. Susilo Bambang Yudhoyono sebagai tindak lanjut perubahan status ini, Menteri Agama RI menetapkan Organisasi dan Tata kerja UIN Suska Riau berdasarkan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 tanggal 4 April 2005.
+
+Institut Agama Islam Negeri Sulthan Syarif Qasim (IAIN Susqa) Pekanbaru sebagai cikal bakal UIN Suska Riau, didirikan pada tanggal 19 September 1970 berdasarkan Surat Keputusan Menteri Agama Republik Indonesia No. 194 Tahun 1970. Institut ini diresmikan berdirinya oleh Menteri Agama Republik Indonesia K.H. Ahmad Dahlan pada tanggal 19 September 1970 berupa penandatanganan piagam dan pelantikan Rektor yang pertama, Prof. H. Ilyas Muhammad Ali.."
 tags: []
 ---
 
