@@ -5,7 +5,7 @@ excerpt: "INDONESIA."
 tags: [sample post, readability, test]
 comments: true
 image:
-  feature: sample-image-4.jpg
+  feature: sample-jogga.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
