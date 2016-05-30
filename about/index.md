@@ -12,7 +12,7 @@ image:
 ##  About Me
 ##  Biodata
 
-Nama : Thovanni Jogga<br>
+Nama : Thovanni J<br>
 TTL : Pekanbaru, 02 Juni 1995<br>
 Alamat : Pekanbaru<br>
 Hobby : Nonton Drama Korea<br>
