@@ -11,7 +11,8 @@ image:
 ---
 ##  About Me
 
-##  Biodata
+
+##   Biodata
 
 Nama : Thovanni J<br>
 TTL : Pekanbaru, 02 Juni 1995<br>
