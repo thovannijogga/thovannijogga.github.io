@@ -5,7 +5,7 @@ tags: [about]
 modified: 2016-05-30T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-lia.jpg
+  feature: sample-jogga.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
