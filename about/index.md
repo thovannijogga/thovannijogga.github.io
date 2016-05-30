@@ -9,8 +9,9 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-## About Me
-## Biodata
+##  About Me
+##  Biodata
+
 Nama : Thovanni Jogga<br>
 TTL : Pekanbaru, 02 Juni 1995<br>
 Alamat : Pekanbaru<br>
@@ -18,6 +19,7 @@ Hobby : Nonton Drama Korea<br>
 Jurusan : Sistem Informasi<br>
 Fakultas : Sains dan Teknologi<br>
 Universitas : UIN Suska Riau<br>
+
 ## It's Me
 Saya Thovvani Jogga asli Pekanbaru, saya anak papa, saya anak yang manja dengan papa saya. Saya kuliah di uin suska riau, saya anak kelas D.
 
